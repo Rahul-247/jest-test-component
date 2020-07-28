@@ -3,23 +3,25 @@
 
 ### Installation
 
+Install Vue/Cli
+
 ```sh
 $ npm install -g @vue/cli
 ```
 
-```sh
-$ vue create vue-test-component-with-jest
-```
+Create Vue Project
 
 ```sh
 $ vue create vue-test-component-with-jest
 ```
+
+Install Jest and Test Utils
 
 ```sh
 $ npm install @vue/cli-plugin-unit-jest @vue/test-utils
 ```
 
-### Create jest.config.js
+### Create jest.config.js with Below code in it
 
 ```sh
     module.exports = {
