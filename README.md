@@ -3,19 +3,19 @@
 
 ### Installation
 
-Install Vue/Cli
+- Install Vue/Cli
 
 ```sh
 $ npm install -g @vue/cli
 ```
 
-Create Vue Project
+- Create Vue Project
 
 ```sh
 $ vue create vue-test-component-with-jest
 ```
 
-Install Jest and Test Utils
+- Install Jest and Test Utils
 
 ```sh
 $ npm install @vue/cli-plugin-unit-jest @vue/test-utils
