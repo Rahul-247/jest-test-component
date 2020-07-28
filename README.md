@@ -1,4 +1,4 @@
-# jest-test-component
+# vue-test-component-with-jest
 
 
 ### Installation
